@@ -9,4 +9,5 @@ cache:
    - /home/travis/.rvm/
 
 script:
+ - bundle exec bundle-audit check --update
  - bundle exec ruby countries_test.rb
