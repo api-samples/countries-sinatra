@@ -1,5 +1,7 @@
 REST JSON API: Countries
 =========================
+[![Build Status](https://travis-ci.org/api-samples/countries-sinatra.svg?branch=master)](https://travis-ci.org/api-samples/countries-sinatra)
+
 
 Simple interface for querying country information by CCA2 two-character country code,
 per assignment https://bitbucket.org/mikaelhg/interview-countries

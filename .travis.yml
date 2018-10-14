@@ -1,0 +1,12 @@
+language: ruby
+
+rvm:
+  - 1.9.3
+
+cache:
+  bundler: true
+  directories:
+   - /home/travis/.rvm/
+
+script:
+ - bundle exec ruby countries_test.rb
