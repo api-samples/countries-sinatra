@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
-ruby '1.9.3'
+ruby '2.5.1'
 
 gem 'sinatra'
-gem 'json', '~> 1.8.2'
+gem 'json', '~> 2.1.0'
 
 gem 'rack-test'
 gem 'minitest'

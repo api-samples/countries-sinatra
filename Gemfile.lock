@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    json (1.8.2)
+    json (2.1.0)
     minitest (5.6.0)
     rack (1.6.0)
     rack-protection (1.5.3)
@@ -18,7 +18,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  json (~> 1.8.2)
+  json (~> 2.1.0)
   minitest
   rack-test
   sinatra
+
+RUBY VERSION
+   ruby 2.5.1p57
+
+BUNDLED WITH
+   1.16.1
