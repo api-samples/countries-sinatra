@@ -6,7 +6,7 @@ GEM
     bundler-audit (0.6.0)
       bundler (~> 1.2)
       thor (~> 0.18)
-    json (2.1.0)
+    json (2.3.0)
     minitest (5.11.3)
     mustermann (1.0.3)
     rack (2.2.3)
@@ -27,7 +27,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundle-audit
-  json (~> 2.1.0)
+  json (~> 2.3.0)
   minitest
   rack-test
   sinatra
